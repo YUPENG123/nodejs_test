@@ -1,2 +1,2 @@
-import * as fs from 'node:fs';
+const fs = require('node:fs');
 console.log(fs);
