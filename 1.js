@@ -1,2 +1,2 @@
-const fs = require('node:fs');
+const fs = require(fs);
 console.log(fs);
